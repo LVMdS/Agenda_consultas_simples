@@ -38,7 +38,7 @@ A senha para acessar a área do administrador é: `admin123`
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT
 
 ## Contribuições
 
